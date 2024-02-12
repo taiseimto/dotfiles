@@ -1,0 +1,22 @@
+# General
+redshift
+light
+fcitx5
+mozc
+yay
+xmonad
+alacritty
+firefox-developer-edition
+
+
+# Develop
+gcc
+make
+zsh
+vim
+stack
+online-judge-tool
+time // gnu time
+
+# fonts
+Source-Code-Pro

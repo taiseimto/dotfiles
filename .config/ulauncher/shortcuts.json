@@ -1,0 +1,72 @@
+{
+    "dce511f7-7023-4e87-bb48-f5d2181e7a77": {
+        "id": "dce511f7-7023-4e87-bb48-f5d2181e7a77",
+        "name": "Google Search",
+        "keyword": "g",
+        "cmd": "https://google.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/google-search-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1691221825.7033947
+    },
+    "882d7f3e-8fc3-450e-81c9-3bc814627e2c": {
+        "id": "882d7f3e-8fc3-450e-81c9-3bc814627e2c",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "https://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1691221825.7034256
+    },
+    "6246aca3-f367-439f-954f-6a2798c74d1b": {
+        "id": "6246aca3-f367-439f-954f-6a2798c74d1b",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1691221825.7034495
+    },
+    "8a136290-b383-46b9-a959-94669772a719": {
+        "id": "8a136290-b383-46b9-a959-94669772a719",
+        "name": "Firefox-mt",
+        "keyword": "mt firefox",
+        "cmd": "firefox-developer-edition -p \"mt\"",
+        "icon": "~/.config/ulauncher/icons/firefox-mt.jpg",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1691233789.794417
+    },
+    "a0477747-535c-426e-81ab-ff51d644b1f6": {
+        "id": "a0477747-535c-426e-81ab-ff51d644b1f6",
+        "name": "Firefox-school",
+        "keyword": "school firefox",
+        "cmd": "firefox-developer-edition -p \"school\"",
+        "icon": "~/.config/ulauncher/icons/firefox-school.gif",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1691234347.6080987
+    },
+    "d40d10c1-316b-4637-b087-76e8102367f3": {
+        "id": "d40d10c1-316b-4637-b087-76e8102367f3",
+        "name": "suspend",
+        "keyword": "suspend",
+        "cmd": " systemctl suspend",
+        "icon": "~/.config/ulauncher/icons/suspend.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1691292662.900585
+    },
+    "506a6a3b-ba05-46ab-b9c6-9180a2302374": {
+        "id": "506a6a3b-ba05-46ab-b9c6-9180a2302374",
+        "name": "firefox official",
+        "keyword": "official firefox",
+        "cmd": "firefox-developer-edition -p \"official\"",
+        "icon": "~/.config/ulauncher/icons/firefox-official.png",
+        "is_default_search": false,
+        "run_without_argument": true,
+        "added": 1706274262.3411133
+    }
+}

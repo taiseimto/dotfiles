@@ -1,0 +1,11 @@
+import = ["~/.alacritty-colorscheme/themes/blood_moon.yaml"]
+
+[shell]
+program = "/bin/zsh"
+
+[font]
+normal = { family = "SourceCodePro", style = "Regular" }
+bold = { family = "SourceCodePro", style = "Bold" }
+italic = { family = "SourceCodePro", style = "Italic" }
+bold_italic = { family = "SourceCodePro", style = "Bold Italic" }
+size = 8
